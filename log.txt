@@ -1,0 +1,2362 @@
+
+
+1 request start 
+2022-12-17 22:40:27 
+User true_mr_doc: 
+ ################################################## 
+Куку
+ ################################################## 
+
+bot:
+ ################################################## 
+ руза
+
+Кукуруза (Zea mays) — однолетнее или двухлетнее злаковое растение семейства Злаковые (Poaceae). Оно используется как пищевая культура, произрастающая на почвах по всему миру. Кукуруза произрастает в виде колосьев и может быть применена для производства муки, сахара, масла и других продуктов. Растение может быть измельчено и использовано для производства целлюлозы, искусственных материалов и других продуктов. Кукуруза также является основным источником энергии для животных. Она может быть использована для производства таких продуктов, как этанол, биотопливо и другие биомассы. 
+ ################################################## 
+1 request end
+
+2 request start 
+2022-12-17 22:40:57 
+User true_mr_doc: 
+ ################################################## 
+Привет
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+Здравствуйте! Как Ваши дела? 
+ ################################################## 
+2 request end
+
+3 request start 
+2022-12-18 02:08:18 
+User true_mr_doc: 
+ ################################################## 
+1
+ ################################################## 
+
+bot:
+ ################################################## 
+ ;
+    }
+    if (c2 >= 0) {
+      ch2 = c2;
+    } else {
+      ch2 = -1;
+    }
+    if (ch1 == ch2) {
+      return 0;
+    } else {
+      return ch1 - ch2;
+    }
+  }
+
+  public static int compare(final char c1, final char c2) {
+    if (c1 == c2) {
+      return 0;
+    } else {
+      return c1 - c2;
+    }
+  }
+
+  public static int compare(final int c1, final int c2) {
+    if (c1 == c2) {
+      return 0;
+    } else {
+      return c1 - c2;
+    }
+  }
+
+  public static int compare(final Character c1, final Character c2) {
+    if (c1 == c2) {
+      return 0;
+    } else {
+      return c1.charValue() - c2.charValue();
+    }
+  }
+
+  public static int compare(final Character c1, final char c2) {
+    if (c1 == null) {
+      return -1;
+    } else {
+      return c1.charValue() - c2;
+    }
+  }
+
+  public static int compare(final char c1, final Character c2) {
+    if (c2 == null) {
+      return 1;
+    } else {
+      return c1 - c2.charValue();
+    }
+  }
+
+} 
+ ################################################## 
+3 request end
+
+4 request start 
+2022-12-18 02:08:32 
+User true_mr_doc: 
+ ################################################## 
+alllllalalalalala
+ ################################################## 
+
+
+
+4 request start 
+2022-12-18 02:11:12 
+User true_mr_doc: 
+ ################################################## 
+Привет!
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+Да, действительно можно применять машинное обучение для прогнозирования погоды. Машинное обучение может быть использовано для извлечения закономерностей из данных о погоде, таких как температура, давление, влажность и т. д., и прогнозирования будущих изменений в погоде. Для этого можно использовать различные алгоритмы машинного обучения, такие как линейная регрессия, деревья решений, случайные леса и нейронные сети. Эти алгоритмы могут предсказать будущие изменения в погоде на основе предыдущих данных и истории погоды. 
+ ################################################## 
+4 request end
+
+5 request start 
+2022-12-18 02:12:49 
+User true_mr_doc: 
+ ################################################## 
+www
+ ################################################## 
+
+bot:
+ ################################################## 
+ .w3.org/2000/svg"
+  };
+  return /*#__PURE__*/React.createElement(StyledIconBase, _extends({
+    iconAttrs: attrs,
+    iconVerticalAlign: "middle",
+    iconViewBox: "0 0 24 24"
+  }, props, {
+    ref: ref
+  }), /*#__PURE__*/React.createElement("path", {
+    d: "M18.5 12c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM5 9v6h4l5 5V4L9 9H5z"
+  }));
+});
+VolumeMute.displayName = 'VolumeMute';
+export var VolumeMuteDimensions = {
+  height: 24,
+  width: 24
+}; 
+ ################################################## 
+5 request end
+
+6 request start 
+2022-12-18 02:13:02 
+User true_mr_doc: 
+ ################################################## 
+www ленинград спб
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+www.leningrad.spb.ru 
+ ################################################## 
+6 request end
+
+7 request start 
+2022-12-18 02:40:10 
+User true_mr_doc: 
+ ################################################## 
+www
+ ################################################## 
+
+
+
+7 request start 
+2022-12-18 02:41:41 
+User true_mr_doc: 
+ ################################################## 
+я люблю панк рок
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+О, это звучит замечательно! Я люблю панк-рок тоже. Некоторые из моих любимых панк-рок групп включают The Ramones, The Clash, The Sex Pistols, The Misfits, Green Day, Rise Against и NOFX. 
+ ################################################## 
+7 request end
+
+8 request start 
+2022-12-18 02:41:57 
+User true_mr_doc: 
+ ################################################## 
+А где сообщения о ошьбке
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+Сообщения об ошибках могут появляться в лог-файлах системы, в консоли браузера или в приложении, в котором они произошли. Также эти сообщения могут быть отправлены администратору системы или программисту для дальнейшего рассмотрения. 
+ ################################################## 
+8 request end
+
+9 request start 
+2022-12-18 02:42:06 
+User true_mr_doc: 
+ ################################################## 
+Сообщения об ошибках могут появляться в лог-файлах системы, в консоли браузера или в приложении, в котором они произошли. Также эти сообщения могут быть отправлены администратору системы или программисту для дальнейшего рассмотрения.
+ ################################################## 
+
+
+
+9 request start 
+2022-12-18 02:48:30 
+User true_mr_doc: 
+ ################################################## 
+я люблю панк рок
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+Очень рада этому! Панк-рок один из самых веселых и энергичных жанров музыки, и его популярность до сих пор не умаляется. В этом жанре существует много групп и исполнителей, и многие из них имеют очень большую популярность. Некоторые из наиболее известных представителей панк-рока - это The Ramones, The Sex Pistols, The Clash, Green Day, Blink-182 и Rancid. Наслаждайтесь панк-роком! 
+ ################################################## 
+9 request end
+
+10 request start 
+2022-12-18 04:40:11 
+User true_mr_doc: 
+ ################################################## 
+Ооо
+ ################################################## 
+
+bot:
+ ################################################## 
+ ооооооооооооооооооооооооооо
+
+О, это звучит очень интересно! Я хотел бы узнать больше о этом. 
+ ################################################## 
+10 request end
+
+11 request start 
+2022-12-18 06:19:35 
+User nikita_mityushov: 
+ ################################################## 
+это требования вакансии: "Чем предстоит заниматься:
+
+Разрабатывать и поддерживать новый функционал продукта;
+
+Самостоятельно решать сложные задачи;
+
+Улучшать процессы и архитектуру вместе с командой.
+
+Мы ждём от тебя:
+
+Опыт разработки android приложений от двух лет;
+
+Уверенное знание Java и Kotlin; Умение работать с Git;
+
+Умение применять современные практики разработки: внедрение зависимостей и архитектурные шаблоны;
+
+Знаком с RxJava, Dagger, Moxy, Room, Retrofit;
+
+Опыт работы с многомодульными проектами и Compose будет преимуществом." напиши вопросы для подготовки к собеседованию
+ ################################################## 
+
+
+
+11 request start 
+2022-12-18 06:21:53 
+User nikita_mityushov: 
+ ################################################## 
+Currently, we are looking for a Senior Android Developer to join the team immediately.
+
+About you:
+
+You have a minimum of 5+ years of experience in Android development.
+You have a good understanding of Android Design Patterns, coding conventions as well as Google's Design Guidelines and Google Play Developer Program Policies.
+Good understanding of networking, caching of local data and multitasking on Android.
+You have solid experience in Java/Kotlin.
+You have solid experience with the ReactiveX framework (RxJava or RxKotlin).
+You speak English, Ukrainian and/or Russian fluently.
+Big Plus would be:
+
+Experience with any of DI library (Dagger, Kodein, Koin).
+Previous experience in building android media applications (especially with Google ExoPlayer library) will be a plus.
+What you will do:
+
+Develop cool features using Kotlin.
+Participate in Code Review.
+Participate in technical discussions with other team leads, suggest solutions, suggest optimal architectural and design decisions.
+Communicate with Product/Project Managers, UI/UX designers.
+Participate in Scrum rituals, provide estimates.
+ ################################################## 
+
+
+
+11 request start 
+2022-12-18 06:22:22 
+User nikita_mityushov: 
+ ################################################## 
+Currently, we are looking for a Senior Android Developer to join the team immediately.
+
+About you:
+
+You have a minimum of 5+ years of experience in Android development.
+You have a good understanding of Android Design Patterns, coding conventions as well as Google's Design Guidelines and Google Play Developer Program Policies.
+Good understanding of networking, caching of local data and multitasking on Android.
+You have solid experience in Java/Kotlin.
+You have solid experience with the ReactiveX framework (RxJava or RxKotlin).
+You speak English, Ukrainian and/or Russian fluently.
+Big Plus would be:
+
+Experience with any of DI library (Dagger, Kodein, Koin).
+Previous experience in building android media applications (especially with Google ExoPlayer library) will be a plus.
+What you will do:
+
+Develop cool features using Kotlin.
+Participate in Code Review.
+Participate in technical discussions with other team leads, suggest solutions, suggest optimal architectural and design decisions.
+Communicate with Product/Project Managers, UI/UX designers.
+Participate in Scrum rituals, provide estimates. write questions for interview preparation
+ ################################################## 
+
+
+
+11 request start 
+2022-12-18 06:23:59 
+User nikita_mityushov: 
+ ################################################## 
+There is job offer with tech stack: Kotlin, Android, Dagger 2, Retrofit, rxJava, room. Write 20 questions for interview preparation
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+1. What experience do you have with Kotlin?
+2. What have you done with Android development?
+3. What is your experience with Dependency Injection and Dagger 2?
+4. How do you handle asynchronous tasks in Android with RxJava?
+5. What is your experience with Retrofit for making network calls?
+6. How do you handle data persistence with Room?
+7. What do you think are the benefits of using Kotlin for Android development?
+8. How do you handle threading in Android?
+9. What is your experience with using Kotlin Coroutines?
+10. How do you debug an Android application written in Kotlin?
+11. What is your experience with creating custom views in Android?
+12. What is your experience with creating custom animations in Android?
+13. How do you handle memory management in Android?
+14. What is your experience with creating custom layouts in Android?
+15. How do you handle network errors in Android with Retrofit?
+16. What is your experience with creating custom view components in Android?
+17. What is your experience with creating custom themes in Android?
+18. What do you think are the advantages and disadvantages of using Dagger 2?
+19. What is your experience with creating custom exceptions in Kotlin?
+20. How do you handle error handling in Android with RxJava? 
+ ################################################## 
+11 request end
+
+12 request start 
+2022-12-18 06:25:34 
+User nikita_mityushov: 
+ ################################################## 
+There is job offer with tech stack: Kotlin, Android, Dagger 2, Retrofit, rxJava, room. Write 30 questions for interview preparation
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+1. What is the difference between Kotlin and Java?
+2. What is the purpose of Dagger 2?
+3. What is the advantage of using Retrofit for Android development?
+4. How does RxJava help in Android development?
+5. What is the purpose of Room library?
+6. What is the difference between a LiveData and an Observable?
+7. What is the process of creating a custom view in Android?
+8. What is the purpose of using the ViewModel class?
+9. What is the difference between a Service and an IntentService?
+10. What is the difference between a BroadcastReceiver and a ContentProvider?
+11. What is the difference between a Singleton and a Static class in Kotlin?
+12. What is the purpose of using the @Inject annotation in Dagger 2?
+13. What is the purpose of using the @Provides annotation in Dagger 2?
+14. How does Dagger 2 help in dependency injection?
+15. What are the advantages of using Retrofit?
+16. What is the purpose of using the @Query annotation in Retrofit?
+17. What is the difference between a Call and an Observable in Retrofit?
+18. How can you handle errors in RxJava?
+19. What is the purpose of using the @Dao annotation in Room?
+20. What is the difference between a RoomDatabase and an Entity?
+21. How can you handle concurrency in Room?
+22. What are the advantages of using Kotlin for Android development?
+23. What is the purpose of using the @Entity annotation in Room?
+24. What is the purpose of using the @PrimaryKey annotation in Room?
+25. How can you perform asynchronous operations in RxJava?
+26. What is the purpose of using the @ColumnInfo annotation in Room?
+27. What is the difference between a Flowable and an Observable in RxJava?
+28. How can you perform data binding in Android?
+29. What is the purpose of using the @InjectViewModel annotation in Dagger 2?
+30. What is the purpose of using the @Module annotation in Dagger 2? 
+ ################################################## 
+12 request end
+
+13 request start 
+2022-12-18 06:26:57 
+User nikita_mityushov: 
+ ################################################## 
+repeat and explain 3. What is the advantage
+ ################################################## 
+
+bot:
+ ################################################## 
+  of using a database?
+
+The advantage of using a database is that it allows for the storage and retrieval of large amounts of data in an organized and efficient manner. A database also provides a high level of data security, as it can be configured to prevent unauthorized access to the data. Additionally, databases also allow for the integration of multiple data sources, allowing for easier analysis and reporting. 
+ ################################################## 
+13 request end
+
+14 request start 
+2022-12-18 06:28:31 
+User nikita_mityushov: 
+ ################################################## 
+write cv for next jobs offer with tech stack  Kotlin, Android, Dagger 2, Retrofit, rxJava, room.
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+Dhruv Sharma
+
+Mobile Application Developer
+
+dhruv@gmail.com
+
+Summary
+
+I am a mobile application developer with 5+ years of experience in developing Android applications using Kotlin, Android, Dagger 2, Retrofit, RxJava, and Room. I have a strong understanding of the Android platform and have developed many successful applications. I am a quick learner and adept at problem-solving. I am looking for an opportunity to work on challenging projects and further develop my skills.
+
+Experience
+
+Android Application Developer 
+ABC Technologies, India 
+March 2016 - Present
+
+• Developed Android applications using Kotlin, Android, Dagger 2, Retrofit, RxJava, and Room.
+• Implemented unit and integration tests for the applications.
+• Optimized UI and UX for the applications.
+• Developed RESTful APIs for the applications.
+• Developed and maintained automated build and deployment systems.
+• Debugged and fixed application issues.
+
+Android Application Developer 
+XYZ Solutions, India 
+July 2014 - February 2016
+
+• Developed Android applications using Kotlin, Android, Dagger 2, Retrofit, RxJava, and Room.
+• Implemented unit and integration tests for the applications.
+• Optimized UI and UX for the applications.
+• Developed RESTful APIs for the applications.
+• Developed and maintained automated build and deployment systems.
+• Debugged and fixed application issues.
+
+Education
+
+Bachelor of Technology in Computer Science 
+University of Delhi, India 
+2010 - 2014
+
+Skills
+
+• Proficient in Kotlin, Android, Dagger 2, Retrofit, RxJava, and Room.
+• Strong understanding of the Android platform.
+• Experience with automated build and deployment systems.
+• Proficient in debugging and troubleshooting.
+• Excellent problem-solving skills.
+• Quick learner. 
+ ################################################## 
+14 request end
+
+15 request start 
+2022-12-18 06:31:44 
+User nikita_mityushov: 
+ ################################################## 
+write cv for next jobs offer with tech stack  Kotlin, Android, Dagger 2, Retrofit, rxJava, room. First name Vasya, last name Pupkin, experience 1+ years
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+Vasya Pupkin
+Android Developer
+
+Summary
+
+I am an experienced Android Developer with 1+ years of experience in developing applications using Kotlin, Android, Dagger 2, Retrofit, RxJava, and Room. I have a proven track record of developing high-quality applications that meet the customer requirements. I am a team player and have excellent communication skills.
+
+Experience
+
+Android Developer
+ABC Corporation 
+August 2018 – Present
+
+• Developed and maintained Android applications using Kotlin, Android, Dagger 2, Retrofit, RxJava, and Room.
+• Refactored existing code to improve application performance and scalability.
+• Implemented unit tests for application components.
+• Collaborated with the UI/UX team to create user-friendly interfaces.
+• Resolved customer issues and provided technical support.
+
+Software Engineer
+XYZ Corporation
+June 2017 – July 2018
+
+• Developed and maintained Android applications using Java and Android SDK.
+• Created custom UI components to improve user experience.
+• Implemented unit tests for application components.
+• Debugged and resolved application issues.
+• Collaborated with the UI/UX team to create user-friendly interfaces.
+
+Education
+
+Bachelor of Science in Computer Science
+ABC University
+2014 – 2018
+
+Skills
+
+• Kotlin
+• Android
+• Dagger 2
+• Retrofit
+• RxJava
+• Room
+• Java
+• Android SDK
+• Unit Testing
+• Debugging
+• UI/UX Design 
+ ################################################## 
+15 request end
+
+16 request start 
+2022-12-18 06:55:08 
+User nikita_mityushov: 
+ ################################################## 
+There is job position with tech stack: Kotlin, Android, Dagger 2, Retrofit, rxJava, room. Write 50 questions with answers for interview preparation
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+1. What is Kotlin?
+Answer: Kotlin is a statically typed, general-purpose programming language developed by JetBrains that targets the JVM, Android, JavaScript and Native.
+
+2. What are the main advantages of using Kotlin?
+Answer: Kotlin offers a number of advantages over other programming languages, including: concise and expressive syntax, null safety, type inference, extension functions, and more.
+
+3. What is Android?
+Answer: Android is an open source mobile operating system developed by Google. It is based on the Linux kernel and is used for developing mobile applications for smartphones and tablets.
+
+4. What is Dagger 2?
+Answer: Dagger 2 is a dependency injection library for Android and Java. It is used to reduce the amount of boilerplate code needed to create objects and manage dependencies.
+
+5. What is Retrofit?
+Answer: Retrofit is an HTTP client library for Android and Java. It is used to make network requests and parse responses from web services.
+
+6. What is RxJava?
+Answer: RxJava is a Java library for creating reactive programming applications. It is used to create asynchronous and event-based programs that can run on the JVM.
+
+7. What is Room?
+Answer: Room is an object-relational mapping library for Android. It is used to persist data to a SQLite database and provide an easy way to access it.
+
+8. What is the difference between Kotlin and Java?
+Answer: Kotlin is a statically typed, general-purpose programming language that targets the JVM, Android, JavaScript and Native. It is more concise and expressive than Java, has null safety, type inference, and more.
+
+9. What are the main components of the Android architecture?
+Answer: The main components of the Android architecture are the application framework, the Linux kernel, and the libraries.
+
+10. What is dependency injection?
+Answer: Dependency injection is a software design pattern that allows objects to be created and managed by an external source. It is used to reduce the amount of code needed to create objects and manage dependencies. 
+ ################################################## 
+16 request end
+
+17 request start 
+2022-12-18 06:56:20 
+User nikita_mityushov: 
+ ################################################## 
+There is job position with tech stack: Kotlin, Android, Dagger 2, Retrofit, rxJava, room. Write 50 questions with answers for interview preparation
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+Q1. What is Kotlin?
+A1. Kotlin is a statically typed programming language for modern multi-platform applications. It is 100% interoperable with Java and is designed to be a better language for Android development.
+
+Q2. What is Android?
+A2. Android is an open source operating system developed by Google for mobile devices such as smartphones and tablets.
+
+Q3. What is Dagger 2?
+A3. Dagger 2 is a dependency injection framework for the Android platform. It allows developers to easily inject dependencies into their code, making it easier to manage and maintain.
+
+Q4. What is Retrofit?
+A4. Retrofit is an HTTP client library for Android that makes it easy to connect to web services. It simplifies the process of sending and receiving data from a server.
+
+Q5. What is RxJava?
+A5. RxJava is a Java library for reactive programming. It allows developers to create asynchronous and event-based programs by using observable sequences.
+
+Q6. What is Room?
+A6. Room is an object-relational mapping library for Android. It simplifies the process of working with databases, allowing developers to easily create, query, and update data.
+
+Q7. What are the benefits of using Kotlin?
+A7. The benefits of using Kotlin include improved readability, more concise code, better type safety, and easier maintenance.
+
+Q8. What is the difference between Kotlin and Java?
+A8. Kotlin is a statically typed language, whereas Java is a dynamic language. Kotlin is more concise and easier to read, while Java is more verbose.
+
+Q9. How does Dagger 2 simplify dependency injection?
+A9. Dagger 2 simplifies dependency injection by allowing developers to easily inject dependencies into their code. This makes it easier to manage and maintain code.
+
+Q10. What is the difference between Retrofit and Volley?
+A10. Retrofit is an HTTP client library for Android that simplifies the process of sending and receiving data from a server, while Volley is an HTTP library for Android that makes it easier to perform network requests. 
+ ################################################## 
+17 request end
+
+18 request start 
+2022-12-18 06:58:04 
+User nikita_mityushov: 
+ ################################################## 
+Write 50 questions with answers for android Retrofit 2 interview preparation
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+Q1. What is Retrofit?
+A1. Retrofit is a type-safe REST client for Android and Java. It makes it relatively easy to retrieve and upload JSON (or other structured data) via a REST based webservice.
+
+Q2. What are the advantages of Retrofit?
+A2. The advantages of Retrofit include: easier to use than other networking libraries; allows for easy integration with other libraries; supports a wide range of web service protocols; and provides a clean and concise API.
+
+Q3. What is the difference between Retrofit 1 and Retrofit 2?
+A3. The main difference between Retrofit 1 and Retrofit 2 is that Retrofit 2 supports a more flexible request and response API. Additionally, Retrofit 2 supports a wider range of web service protocols, including HTTP/2 and SPDY.
+
+Q4. What is the purpose of the @GET annotation in Retrofit?
+A4. The @GET annotation is used to indicate that the method should use an HTTP GET request to retrieve data from the server.
+
+Q5. What is the purpose of the @POST annotation in Retrofit?
+A5. The @POST annotation is used to indicate that the method should use an HTTP POST request to send data to the server.
+
+Q6. What is the purpose of the @Path annotation in Retrofit?
+A6. The @Path annotation is used to specify a dynamic portion of the URL path.
+
+Q7. How do you pass query parameters in a Retrofit request?
+A7. Query parameters can be passed in a Retrofit request using the @Query annotation.
+
+Q8. How do you pass form-encoded data in a Retrofit request?
+A8. Form-encoded data can be passed in a Retrofit request using the @FormUrlEncoded annotation.
+
+Q9. How do you pass an object in a Retrofit request?
+A9. An object can be passed in a Retrofit request using the @Body annotation.
+
+Q10. How do you pass a multipart request in a Retrofit request?
+A10. A multipart request can be passed in a Retrofit request using the @Multipart annotation. 
+ ################################################## 
+18 request end
+
+19 request start 
+2022-12-18 06:59:03 
+User nikita_mityushov: 
+ ################################################## 
+Write 30 questions with answers for android Retrofit 2 interview preparation
+ ################################################## 
+
+
+
+19 request start 
+2022-12-18 07:52:08 
+User nikita_mityushov: 
+ ################################################## 
+Coil lib android write advance download image code
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+There are several ways to download and display images in an Android app. 
+
+1. Using Picasso Library: Picasso is a popular open-source Android library for loading and caching images. It simplifies the process of loading images from external locations and displays them in your application. It also allows for resizing and cropping images, as well as setting placeholders and other options. 
+
+2. Using Glide Library: Glide is another popular open-source library for loading and displaying images in Android. It offers a wide range of features, including image transformations, caching, and animated GIF support. 
+
+3. Using Volley Library: Volley is an HTTP library that makes networking for Android apps easier and faster. It can be used to download and display images from a remote server. 
+
+4. Using Fresco Library: Fresco is a powerful library for displaying images on Android. It offers a wide range of features, including image transformations, caching, and animated GIF support. It also supports streaming and progressive loading of images, making it an ideal choice for displaying large images. 
+
+5. Using Universal Image Loader Library: Universal Image Loader is a powerful library for loading and caching images on Android. It offers a wide range of features, including image transformations, caching, and animated GIF support. It also supports streaming and progressive loading of images, making it an ideal choice for displaying large images. 
+ ################################################## 
+19 request end
+
+20 request start 
+2022-12-18 08:06:03 
+User nikita_mityushov: 
+ ################################################## 
+benefits of single activity oposites many activities
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+1. Increased Focus: Doing one activity at a time allows you to really focus on the task at hand and put your full attention on it. This can lead to better results and a higher quality of work.
+
+2. Reduced Stress: Juggling multiple activities at once can be stressful and overwhelming. By focusing on one activity, you can reduce the amount of stress in your life.
+
+3. Improved Efficiency: Doing one activity at a time can help you get things done faster. This is because you are not wasting time switching between tasks or dealing with distractions.
+
+4. Improved Creativity: When you focus on one activity, you can come up with more creative solutions and ideas. This is because you are able to give the task your full attention and think more deeply about it.
+
+5. Increased Enjoyment: When you focus on one activity, you can really enjoy it and get more out of it. This can lead to a greater sense of satisfaction and accomplishment. 
+ ################################################## 
+20 request end
+
+21 request start 
+2022-12-18 08:06:32 
+User nikita_mityushov: 
+ ################################################## 
+android application: benefits of single activity oposites many activitie
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+Benefits of single activity over multiple activities:
+
+1. Easier to navigate: With a single activity, users can easily navigate through the app. This is because all the activities are in one place, and users don’t have to keep switching between different activities.
+
+2. More efficient: By having a single activity, developers can easily manage the code and optimize it for better performance. This helps to reduce the time taken to develop the app.
+
+3. Better user experience: With a single activity, users have a better experience as they don’t have to keep switching between different activities. This makes the app more user friendly.
+
+4. Less memory usage: With a single activity, the app uses less memory as there is only one activity running at any given time. This helps to reduce the memory usage of the app and make it more efficient. 
+ ################################################## 
+21 request end
+
+22 request start 
+2022-12-18 08:10:09 
+User nikita_mityushov: 
+ ################################################## 
+add javadoc to this code: import android.os.Bundle
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import androidx.recyclerview.widget.RecyclerView
+import com.mityushovn.moxytest.databinding.FragmentRecipesListBinding
+import com.mityushovn.moxytest.utils.hideKeyboard
+import com.mityushovn.moxytest.utils.toGone
+import com.mityushovn.moxytest.utils.toVisible
+import moxy.MvpAppCompatFragment
+
+class RecipesListFragment : MvpAppCompatFragment(), RecipesListMvpView {
+    private var _binding: FragmentRecipesListBinding? = null
+    private val binding get() = _binding!!
+
+    private val adapter: RecipesAdapter = RecipesAdapter().apply {
+        submitList(emptyList())
+    }
+
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View {
+        _binding = FragmentRecipesListBinding.inflate(inflater, container, false)
+        configureRecyclerView()
+        return binding.root
+    }
+
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+
+    }
+
+    override fun onDestroyView() {
+        super.onDestroyView()
+        _binding = null
+    }
+
+    override fun displayRecipesScreen() {
+        TODO("Not yet implemented")
+    }
+
+    override fun displayLoading() {
+        TODO("Not yet implemented")
+    }
+
+    // private block
+    private fun configureRecyclerView() {
+        // 1)
+        binding.moviesListFrRecycleView.swapAdapter(adapter, true)
+        // 2)
+        _binding?.let {
+            it.moviesListFrRecycleView.apply {
+                //  hides keyboard when scrolling recycler
+                addOnScrollListener(object : RecyclerView.OnScrollListener() {
+                    override fun onScrollStateChanged(recyclerView: RecyclerView, newState: Int) {
+                        super.onScrollStateChanged(recyclerView, newState)
+                        if (newState == RecyclerView.SCROLL_STATE_DRAGGING) {
+                            recyclerView.hideKeyboard()
+                        }
+                    }
+                })
+            }
+        }
+    }
+
+    private fun setSearchProgressBarGone() {
+        binding.inputProgress.toGone()
+        binding.searchImageView.toVisible()
+    }
+
+    private fun setSearchProgressBarVisible() {
+        binding.inputProgress.toVisible()
+        binding.searchImageView.toGone()
+    }
+
+    private fun setRecycleViewVisible() {
+        binding.moviesListFrRecycleView.toVisible()
+        binding.emptyResultOrErrorTv.toGone()
+    }
+
+    private fun setRecycleViewGone() {
+        binding.moviesListFrRecycleView.toGone()
+        binding.emptyResultOrErrorTv.toVisible()
+    }
+}
+ ################################################## 
+
+
+
+22 request start 
+2022-12-18 08:10:28 
+User nikita_mityushov: 
+ ################################################## 
+generate javadoc to import android.os.Bundle
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import androidx.recyclerview.widget.RecyclerView
+import com.mityushovn.moxytest.databinding.FragmentRecipesListBinding
+import com.mityushovn.moxytest.utils.hideKeyboard
+import com.mityushovn.moxytest.utils.toGone
+import com.mityushovn.moxytest.utils.toVisible
+import moxy.MvpAppCompatFragment
+
+class RecipesListFragment : MvpAppCompatFragment(), RecipesListMvpView {
+    private var _binding: FragmentRecipesListBinding? = null
+    private val binding get() = _binding!!
+
+    private val adapter: RecipesAdapter = RecipesAdapter().apply {
+        submitList(emptyList())
+    }
+
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View {
+        _binding = FragmentRecipesListBinding.inflate(inflater, container, false)
+        configureRecyclerView()
+        return binding.root
+    }
+
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+
+    }
+
+    override fun onDestroyView() {
+        super.onDestroyView()
+        _binding = null
+    }
+
+    override fun displayRecipesScreen() {
+        TODO("Not yet implemented")
+    }
+
+    override fun displayLoading() {
+        TODO("Not yet implemented")
+    }
+
+    // private block
+    private fun configureRecyclerView() {
+        // 1)
+        binding.moviesListFrRecycleView.swapAdapter(adapter, true)
+        // 2)
+        _binding?.let {
+            it.moviesListFrRecycleView.apply {
+                //  hides keyboard when scrolling recycler
+                addOnScrollListener(object : RecyclerView.OnScrollListener() {
+                    override fun onScrollStateChanged(recyclerView: RecyclerView, newState: Int) {
+                        super.onScrollStateChanged(recyclerView, newState)
+                        if (newState == RecyclerView.SCROLL_STATE_DRAGGING) {
+                            recyclerView.hideKeyboard()
+                        }
+                    }
+                })
+            }
+        }
+    }
+
+    private fun setSearchProgressBarGone() {
+        binding.inputProgress.toGone()
+        binding.searchImageView.toVisible()
+    }
+
+    private fun setSearchProgressBarVisible() {
+        binding.inputProgress.toVisible()
+        binding.searchImageView.toGone()
+    }
+
+    private fun setRecycleViewVisible() {
+        binding.moviesListFrRecycleView.toVisible()
+        binding.emptyResultOrErrorTv.toGone()
+    }
+
+    private fun setRecycleViewGone() {
+        binding.moviesListFrRecycleView.toGone()
+        binding.emptyResultOrErrorTv.toVisible()
+    }
+}
+ ################################################## 
+
+
+
+22 request start 
+2022-12-18 08:11:02 
+User nikita_mityushov: 
+ ################################################## 
+generate javadoc to method    private fun setRecycleViewVisible() {
+        binding.moviesListFrRecycleView.toVisible()
+        binding.emptyResultOrErrorTv.toGone()
+    }
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+/**
+ * Makes the recycle view visible and hides the empty result or error text view.
+ */
+private fun setRecycleViewVisible() {
+    binding.moviesListFrRecycleView.toVisible()
+    binding.emptyResultOrErrorTv.toGone()
+} 
+ ################################################## 
+22 request end
+
+23 request start 
+2022-12-18 08:12:24 
+User nikita_mityushov: 
+ ################################################## 
+generate javadoc to method     private fun setRecycleViewGone() {
+        binding.moviesListFrRecycleView.toGone()
+        binding.emptyResultOrErrorTv.toVisible()
+    }
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+/**
+ * Sets the visibility of the RecycleView to gone and the visibility of the emptyResultOrErrorTv to visible.
+ */
+private fun setRecycleViewGone() {
+    binding.moviesListFrRecycleView.toGone()
+    binding.emptyResultOrErrorTv.toVisible()
+} 
+ ################################################## 
+23 request end
+
+24 request start 
+2022-12-18 08:26:57 
+User nikita_mityushov: 
+ ################################################## 
+write repository class with retrofit data source, room data source, and cache policy cache first
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+import retrofit2.Retrofit
+import android.arch.persistence.room.Room
+
+class Repository {
+
+    private val retrofitDataSource: Retrofit
+    private val roomDataSource: Room
+    private val cachePolicy: CachePolicy
+
+    constructor(retrofitDataSource: Retrofit, roomDataSource: Room, cachePolicy: CachePolicy) {
+        this.retrofitDataSource = retrofitDataSource
+        this.roomDataSource = roomDataSource
+        this.cachePolicy = cachePolicy
+    }
+
+    fun getData(): Any {
+        when (cachePolicy) {
+            CachePolicy.CACHE_FIRST -> {
+                // try to get data from room data source
+                val data = roomDataSource.getData()
+                if (data != null) {
+                    return data
+                }
+
+                // if data is not in room data source, try to get data from retrofit data source
+                val retrofitData = retrofitDataSource.getData()
+                if (retrofitData != null) {
+                    // save the data to room data source
+                    roomDataSource.saveData(retrofitData)
+                    return retrofitData
+                }
+            }
+            CachePolicy.NETWORK_FIRST -> {
+                // try to get data from retrofit data source
+                val retrofitData = retrofitDataSource.getData()
+                if (retrofitData != null) {
+                    // save the data to room data source
+                    roomDataSource.saveData(retrofitData)
+                    return retrofitData
+                }
+
+                // if data is not in retrofit data source, try to get data from room data source
+                val data = roomDataSource.getData()
+                if (data != null) {
+                    return data
+                }
+            }
+        }
+        return null
+    }
+}
+
+enum class CachePolicy {
+    CACHE_FIRST, NETWORK_FIRST
+} 
+ ################################################## 
+24 request end
+
+25 request start 
+2022-12-18 08:41:29 
+User nikita_mityushov: 
+ ################################################## 
+write repository class with retrofit data source with rxjava single call adapter, room data source with rxjava single response, and cache policy cache first
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+import androidx.annotation.NonNull;
+import io.reactivex.Single;
+import retrofit2.Retrofit;
+import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
+
+public class Repository {
+
+    private Retrofit retrofit;
+    private RoomDataSource roomDataSource;
+    private CachePolicy cachePolicy;
+
+    public Repository(@NonNull Retrofit retrofit, @NonNull RoomDataSource roomDataSource, @NonNull CachePolicy cachePolicy) {
+        this.retrofit = retrofit;
+        this.roomDataSource = roomDataSource;
+        this.cachePolicy = cachePolicy;
+    }
+
+    public Single<Object> getData() {
+        Single<Object> dataSource;
+
+        if (cachePolicy == CachePolicy.CacheFirst) {
+            dataSource = roomDataSource.getData();
+        } else {
+            dataSource = retrofit.create(DataSource.class)
+                    .getData()
+                    .compose(RxJava2CallAdapterFactory.create())
+                    .doOnSuccess(roomDataSource::saveData);
+        }
+
+        return dataSource;
+    }
+} 
+ ################################################## 
+25 request end
+
+26 request start 
+2022-12-18 12:09:04 
+User true_mr_doc: 
+ ################################################## 
+я люблю панк рок
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+Я люблю панк-рок! Это жанр музыки, который использует энергичное, настроение, агрессивные гитарные рифы и лирические тексты о проблемах и политических вопросах. Он также использует элементы других жанров, включая рок-н-ролл, хард-рок и пост-панк. Одним из первых панк-рок групп была The Ramones, которая появилась в Нью-Йорке в 1974 году. С тех пор панк-рок получил огромную популярность по всему миру, и многие другие группы и музыканты продолжают развивать и изменять этот жанр. 
+ ################################################## 
+26 request end
+
+27 request start 
+2022-12-18 16:21:51 
+User true_mr_doc: 
+ ################################################## 
+Что послужило причиной начала второй мировой войны
+ ################################################## 
+
+bot:
+ ################################################## 
+ ?
+
+Вторая мировая война началась в 1939 году в результате нападения Германии на Польшу. Она была предшествована диктатурной политикой немецкого нацизма и провокациями Адольфа Гитлера, который пытался получить доминирующее положение в Европе. 
+ ################################################## 
+27 request end
+
+28 request start 
+2022-12-18 16:22:29 
+User true_mr_doc: 
+ ################################################## 
+из-за чего началась вторая мировая война?
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+Вторая мировая война началась из-за агрессивной политики Нацистской Германии и ее попытки захватить Европу. 
+ ################################################## 
+28 request end
+
+29 request start 
+2022-12-18 16:57:34 
+User true_mr_doc: 
+ ################################################## 
+Расскажи на русском о чем написано в статье. "
+Bloomberg: Business News Daily
+Install to read in the Bloomberg app
+4.6
+View
+Skip to content
+
+Bloomberg
+Subscribe
+Technology
+Binance CEO Zhao Warns Bumpy Road Ahead in Message to His Staff
+Founder of Binance writes memo to staff after large outflows
+Memo part of Zhao’s efforts to counter worries about Binance
+Binance CEO Zhao Warns Bumpy Road Ahead to His Staff
+Unmute
+WATCH: Binance CEO warned his staff to expect tough months ahead amid customer withdrawals following FTX’s collapse. Joanna Ossinger reports.Source: Bloomberg
+BySuvashree Ghosh and Olga Kharif+Follow
+14 декабря 2022 г., 08:07 GMT+3
+Binance Holdings Ltd. Chief Executive Officer Changpeng Zhao warned his colleagues to expect tough months ahead and said the firm will overcome current challenges, as the crypto billionaire tries to assuage concerns about the company’s financial health.
+
+In a memo sent to staff, CZ, as the founder of the world’s largest crypto exchange is known, said the industry for digital assets is going through “a historic moment” and that Binance is in a strong financial position and “will survive any crypto winter.”
+
+“While we expect the next several months to be bumpy, we will get past this challenging period – and we’ll be stronger for having been through it,” he wrote in the memo seen by Bloomberg. He added that FTX’s recent collapse has brought with it “a lot of extra scrutiny and tough questions” on his firm, referring to reports this week on customer withdrawals. 
+
+
+FTX’s shock collapse has rocked investor sentiment and prompted some traders to take control of their tokens, causing outflows at other exchanges. Binance was one of the exchanges hit by large outflows on Tuesday, which have since started to show signs of easing.
+
+READ MORE ON BINANCE’S CHALLENGES
+Binance Seeks to Rebut Concerns After Record Bitcoin Outflows
+
+Binance Hit by Crypto Outflows as FTX’s Fall Rocks Exchanges 
+
+After FTX Fall, These Crypto Entities Are Grabbing the Spotlight
+
+The memo and rebuttals on Twitter came on the back of a record number of net daily Bitcoin and Ether token outflows from Binance on Tuesday.
+
+
+“Rest assured, this organization was built to last,” Zhao wrote in the memo."
+ ################################################## 
+
+
+
+29 request start 
+2022-12-18 16:58:36 
+User true_mr_doc: 
+ ################################################## 
+Расскажи основные тезисы статьи."BySuvashree Ghosh and Olga Kharif+Follow
+14 декабря 2022 г., 08:07 GMT+3
+Binance Holdings Ltd. Chief Executive Officer Changpeng Zhao warned his colleagues to expect tough months ahead and said the firm will overcome current challenges, as the crypto billionaire tries to assuage concerns about the company’s financial health.
+
+In a memo sent to staff, CZ, as the founder of the world’s largest crypto exchange is known, said the industry for digital assets is going through “a historic moment” and that Binance is in a strong financial position and “will survive any crypto winter.”
+
+“While we expect the next several months to be bumpy, we will get past this challenging period – and we’ll be stronger for having been through it,” he wrote in the memo seen by Bloomberg. He added that FTX’s recent collapse has brought with it “a lot of extra scrutiny and tough questions” on his firm, referring to reports this week on customer withdrawals. 
+
+"
+ ################################################## 
+
+
+
+29 request start 
+2022-12-18 18:32:59 
+User nikita_mityushov: 
+ ################################################## 
+dagger 2 @AssisstedInject purpose
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+Assisted Inject is a library developed by Square that helps with dependency injection in Android. It provides an annotation-based API that allows developers to easily create and manage dependencies in their application. Assisted Inject can help reduce the complexity of managing dependencies, making it easier to maintain and test applications. 
+ ################################################## 
+29 request end
+
+30 request start 
+2022-12-18 18:33:26 
+User nikita_mityushov: 
+ ################################################## 
+dagger 2 annotation @AssisstedInject purpose
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+The @AssistedInject annotation is used in combination with assisted injection to create objects. It is used to mark a constructor or factory method as eligible for assisted injection. Assisted injection is a feature of the Guice framework which allows you to inject objects with parameters that are not known until runtime. 
+ ################################################## 
+30 request end
+
+31 request start 
+2022-12-18 18:34:26 
+User nikita_mityushov: 
+ ################################################## 
+dagger 2 annotation @IntoMap purpose
+ ################################################## 
+
+
+
+31 request start 
+2022-12-18 18:46:24 
+User None: 
+ ################################################## 
+Привет
+ ################################################## 
+
+bot:
+ ################################################## 
+ , я бот.
+
+Привет! Рад познакомиться. Чем я могу тебе помочь? 
+ ################################################## 
+31 request end
+
+32 request start 
+2022-12-18 18:52:28 
+User None: 
+ ################################################## 
+Где взять денег?
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+Существует множество способов получения денег. Вы можете заработать их, получить в виде подарка, получить в виде наследства, выиграть в лотерею или играх, получить в виде кредита или займа, получить в виде премии, продать что-то ценное, получить в качестве дополнительного дохода и т.д. 
+ ################################################## 
+32 request end
+
+33 request start 
+2022-12-18 18:52:59 
+User None: 
+ ################################################## 
+Спасибо
+ ################################################## 
+
+bot:
+ ################################################## 
+  за ваш выбор!
+
+Наши специалисты свяжутся с вами в ближайшее время, чтобы подтвердить заказ. После этого мы отправим вам подтверждение и уведомление о доставке вашего заказа.
+
+Если у вас есть дополнительные вопросы или проблемы, пожалуйста, не стесняйтесь связаться с нами. Мы будем рады помочь вам.
+
+Спасибо за покупку! 
+ ################################################## 
+33 request end
+
+34 request start 
+2022-12-18 19:05:15 
+User nikita_mityushov: 
+ ################################################## 
+write random 20 questions about dagger 2 library
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+1. What is Dagger 2?
+2. What are the main features of Dagger 2?
+3. What is dependency injection and how does Dagger 2 help with it?
+4. How does Dagger 2 make code easier to maintain?
+5. What are the benefits of using Dagger 2?
+6. How does Dagger 2 compare to other dependency injection frameworks?
+7. What are the main components of Dagger 2?
+8. How does Dagger 2 help with unit testing?
+9. What are the benefits of using Dagger 2 for Android development?
+10. How does Dagger 2 help with managing dependencies?
+11. What is the difference between Dagger 1 and Dagger 2?
+12. How is Dagger 2 different from other dependency injection frameworks?
+13. What are the advantages of using Dagger 2?
+14. What are the best practices for using Dagger 2?
+15. How does Dagger 2 help with code reuse?
+16. How does Dagger 2 help with performance?
+17. What types of projects can benefit from using Dagger 2?
+18. What are the benefits of using Dagger 2 for Java development?
+19. How can Dagger 2 be used to simplify development?
+20. What are the most important things to consider when using Dagger 2? 
+ ################################################## 
+34 request end
+
+35 request start 
+2022-12-18 19:16:16 
+User nikita_mityushov: 
+ ################################################## 
+write random 20 questions about dagger 2 library and its annotations
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+1. What is the purpose of using dagger 2 library?
+2. How does dagger 2 help in dependency injection?
+3. What are the advantages of using dagger 2 library?
+4. What are the annotations used in dagger 2 library?
+5. How do you define a module in dagger 2?
+6. What is the purpose of the @Inject annotation?
+7. What is the purpose of the @Module annotation?
+8. How do you define a component in dagger 2?
+9. What is the purpose of the @Component annotation?
+10. How do you define a scope in dagger 2?
+11. What is the purpose of the @Scope annotation?
+12. How do you define a qualifier in dagger 2?
+13. What is the purpose of the @Qualifier annotation?
+14. How do you define a binding in dagger 2?
+15. What is the purpose of the @Binds annotation?
+16. What is the purpose of the @Provides annotation?
+17. How do you define a subcomponent in dagger 2?
+18. What is the purpose of the @Subcomponent annotation?
+19. How do you define a factory in dagger 2?
+20. What is the purpose of the @Factory annotation? 
+ ################################################## 
+35 request end
+
+36 request start 
+2022-12-18 20:03:07 
+User nikita_mityushov: 
+ ################################################## 
+write random 20 questions about retrofit 2 library and its annotations
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+1. What is the purpose of using @Body annotation in Retrofit 2?
+2. What is the difference between Retrofit 1 and Retrofit 2?
+3. How can we use Retrofit 2 to make a POST request?
+4. How can we use Retrofit 2 to make a GET request?
+5. What is the purpose of using @Query annotation in Retrofit 2?
+6. What is the purpose of using @Path annotation in Retrofit 2?
+7. What is the purpose of using @Url annotation in Retrofit 2?
+8. How can we use Retrofit 2 to make a PUT request?
+9. How can we use Retrofit 2 to make a DELETE request?
+10. What is the purpose of using @Header annotation in Retrofit 2?
+11. How can we use Retrofit 2 to send multipart data?
+12. How can we use Retrofit 2 to parse JSON responses?
+13. How can we use Retrofit 2 to parse XML responses?
+14. What is the purpose of using @Field annotation in Retrofit 2?
+15. How can we use Retrofit 2 to handle authentication?
+16. How can we use Retrofit 2 to handle errors?
+17. What is the purpose of using @FormUrlEncoded annotation in Retrofit 2?
+18. What is the purpose of using @Multipart annotation in Retrofit 2?
+19. How can we use Retrofit 2 to make asynchronous requests?
+20. How can we use Retrofit 2 to cache responses? 
+ ################################################## 
+36 request end
+
+37 request start 
+2022-12-18 20:11:37 
+User nikita_mityushov: 
+ ################################################## 
+generate javadoc to this code: package com.mityushovn.moxytest.recipesscreen.presentation.resipeslistscreen
+
+import android.os.Bundle
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import androidx.recyclerview.widget.RecyclerView
+import com.mityushovn.moxytest.databinding.FragmentRecipesListBinding
+import com.mityushovn.moxytest.recipesscreen.data.repositories.IRecipesRepository
+import com.mityushovn.moxytest.utils.hideKeyboard
+import com.mityushovn.moxytest.utils.toGone
+import com.mityushovn.moxytest.utils.toVisible
+import moxy.MvpAppCompatFragment
+import moxy.presenter.InjectPresenter
+import moxy.presenter.ProvidePresenter
+import javax.inject.Inject
+
+class RecipesListFragment : MvpAppCompatFragment(), RecipesListMvpView {
+    // binding
+    private var _binding: FragmentRecipesListBinding? = null
+    private val binding get() = _binding!!
+    // rv adapter
+    private val adapter: RecipesAdapter = RecipesAdapter().apply {
+        submitList(emptyList())
+    }
+
+    // moxy presenter
+    @Inject
+    lateinit var recipesRepository: IRecipesRepository
+
+    @InjectPresenter
+    lateinit var recipesListPresenter: RecipesListPresenter
+
+    @ProvidePresenter
+    fun provideRecipesPresenter(): RecipesListPresenter {
+        return RecipesListPresenter(recipesRepository)
+    }
+
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View {
+        _binding = FragmentRecipesListBinding.inflate(inflater, container, false)
+        configureRecyclerView()
+        return binding.root
+    }
+
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+
+    }
+
+    override fun onDestroyView() {
+        super.onDestroyView()
+        _binding = null
+    }
+
+    // Mvp contract methods
+    override fun displaySuccessResult() {
+        setRecycleViewVisible()
+    }
+
+    override fun displayStartLoading() {
+        setSearchProgressBarVisible()
+    }
+
+    override fun displayEndLoading() {
+        setSearchProgressBarGone()
+    }
+
+    override fun displayError(msg: String) {
+        setRecycleViewGone()
+    }
+
+    // private block
+    private fun configureRecyclerView() {
+        // 1)
+        binding.moviesListFrRecycleView.swapAdapter(adapter, true)
+        // 2)
+        _binding?.let {
+            it.moviesListFrRecycleView.apply {
+                //  hides keyboard when scrolling recycler
+                addOnScrollListener(object : RecyclerView.OnScrollListener() {
+                    override fun onScrollStateChanged(recyclerView: RecyclerView, newState: Int) {
+                        super.onScrollStateChanged(recyclerView, newState)
+                        if (newState == RecyclerView.SCROLL_STATE_DRAGGING) {
+                            recyclerView.hideKeyboard()
+                        }
+                    }
+                })
+            }
+        }
+    }
+
+    private fun setSearchProgressBarGone() {
+        binding.inputProgress.toGone()
+        binding.searchImageView.toVisible()
+    }
+
+    private fun setSearchProgressBarVisible() {
+        binding.inputProgress.toVisible()
+        binding.searchImageView.toGone()
+    }
+
+    /
+     * Makes the recycle view visible and hides the empty result or error text view.
+     */
+    private fun setRecycleViewVisible() {
+        binding.moviesListFrRecycleView.toVisible()
+        binding.emptyResultOrErrorTv.toGone()
+    }
+
+    /
+     * Sets the visibility of the RecycleView to gone and the visibility of the emptyResultOrErrorTv to visible.
+     */
+    private fun setRecycleViewGone() {
+        binding.moviesListFrRecycleView.toGone()
+        binding.emptyResultOrErrorTv.toVisible()
+    }
+}
+ ################################################## 
+
+
+
+37 request start 
+2022-12-18 21:15:35 
+User liss_helings: 
+ ################################################## 
+С-С=С-С
+         |   
+        С
+ ################################################## 
+
+bot:
+ ################################################## 
+ С
+
+В данном примере представлена буква С в двух разных регистрах. 
+ ################################################## 
+37 request end
+
+38 request start 
+2022-12-18 21:15:54 
+User liss_helings: 
+ ################################################## 
+Пон
+ ################################################## 
+
+bot:
+ ################################################## 
+ едельник
+
+Понедельник — первый день недели, предшествующий вторнику. В английском языке слово «Monday» происходит от «Moon's day», что означает «день Луны». В других языках название дня может быть связано с богом Луны или самой Луной. В России понедельник называется «понедельник» или «первое день недели». В понедельник многие люди начинают новую неделю с подъёма в ранние утренние часы и посещения работы, школы или других мероприятий. В некоторых странах понедельник является первым днём недели, а в других странах — последним. 
+ ################################################## 
+38 request end
+
+39 request start 
+2022-12-18 21:54:00 
+User nikita_mityushov: 
+ ################################################## 
+write random 20 questions about retrofit 2 library and its annotations with answers and examples
+ ################################################## 
+
+
+
+39 request start 
+2022-12-18 21:57:12 
+User nikita_mityushov: 
+ ################################################## 
+write random 20 questions with answers and examples about retrofit 2 library and its annotations
+ ################################################## 
+
+
+
+39 request start 
+2022-12-18 22:00:24 
+User nikita_mityushov: 
+ ################################################## 
+Разархивируй zip архив с java io
+ ################################################## 
+
+bot:
+ ################################################## 
+  библиотекой
+
+Для разархивирования zip архива с Java IO библиотекой вам потребуется использовать класс java.util.zip.ZipFile. Ниже приведен пример кода, который показывает, как разархивировать zip архив:
+
+// Создание объекта ZipFile для чтения файла
+ZipFile zipFile = new ZipFile("example.zip");
+
+// Получение списка элементов архива
+Enumeration<? extends ZipEntry> entries = zipFile.entries();
+
+// Итерирование элементов архива и разархивирование их
+while (entries.hasMoreElements()) {
+   ZipEntry entry = entries.nextElement();
+   InputStream stream = zipFile.getInputStream(entry);
+   // Разархивирование файла и запись в нужное место
+   // ...
+}
+
+// Закрытие файла
+zipFile.close(); 
+ ################################################## 
+39 request end
+
+40 request start 
+2022-12-18 22:01:34 
+User nikita_mityushov: 
+ ################################################## 
+write 20 questions with answers and examples about retrofit 2 library
+ ################################################## 
+
+
+
+40 request start 
+2022-12-18 22:02:40 
+User nikita_mityushov: 
+ ################################################## 
+Write 10 examples of retrofit2 lib using
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+1. Implementing OAuth2 authentication
+2. Adding query parameters to existing requests
+3. Adding headers to existing requests
+4. Adding custom request body to existing requests
+5. Uploading multipart files with requests
+6. Downloading files with requests
+7. Synchronous and asynchronous requests
+8. Parsing JSON and XML responses
+9. Adding interceptors to modify requests
+10. Using OkHttp as the HTTP client 
+ ################################################## 
+40 request end
+
+41 request start 
+2022-12-18 22:03:41 
+User nikita_mityushov: 
+ ################################################## 
+Implement oauth authentification with retrofit2 in Kotlin
+ ################################################## 
+
+
+
+41 request start 
+2022-12-18 22:05:05 
+User nikita_mityushov: 
+ ################################################## 
+Write oauth authentification implementation code with retrofit2 in Kotlin
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+val retrofit = Retrofit.Builder()
+    .baseUrl(BASE_URL)
+    .addConverterFactory(GsonConverterFactory.create())
+    .client(getUnsafeOkHttpClient())
+    .build()
+
+fun getUnsafeOkHttpClient(): OkHttpClient {
+    val logging = HttpLoggingInterceptor()
+    logging.level = HttpLoggingInterceptor.Level.BODY
+
+    val httpClient = OkHttpClient.Builder()
+    httpClient.addInterceptor(logging)
+    httpClient.addInterceptor { chain ->
+        val original = chain.request()
+        val requestBuilder = original.newBuilder()
+            .header("Authorization", "Bearer " + accessToken)
+            .method(original.method(), original.body())
+
+        val request = requestBuilder.build()
+        chain.proceed(request)
+    }
+
+    return httpClient.build()
+} 
+ ################################################## 
+41 request end
+
+42 request start 
+2022-12-18 22:06:25 
+User nikita_mityushov: 
+ ################################################## 
+Tell about authorization and refreshing token with okHttp
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+Authorization is the process of granting access to a system or resource to a user. When a user attempts to access a secured resource, they must provide a valid username and password. If the credentials are valid, the system grants access to the resource.
+
+Refreshing token with OkHttp is the process of using a refresh token to renew an expired access token. The refresh token is sent as part of the request to the authorization server, which then returns a new access token. This process allows users to remain authenticated without having to re-enter their credentials. OkHttp is an open-source library that can be used to make HTTP requests with ease. It supports authentication, including the ability to refresh tokens using the refresh token grant type. 
+ ################################################## 
+42 request end
+
+43 request start 
+2022-12-18 22:07:20 
+User nikita_mityushov: 
+ ################################################## 
+Write code of refreshing access token in okhttp interceptor
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+OkHttpClient client = new OkHttpClient.Builder()
+    .addInterceptor(new Interceptor() {
+        @Override
+        public Response intercept(Chain chain) throws IOException {
+            Request request = chain.request();
+            Response response = chain.proceed(request);
+
+            // Refresh access token if 401
+            if (response.code() == 401) {
+                String refreshToken = getRefreshToken();
+                Request newAccessTokenRequest = getNewAccessTokenRequest(refreshToken);
+
+                Response newAccessTokenResponse = chain.proceed(newAccessTokenRequest);
+                if (newAccessTokenResponse.code() == 200) {
+                    String newAccessToken = getNewAccessTokenFromResponse(newAccessTokenResponse);
+                    Request newRequest = chain.request()
+                        .newBuilder()
+                        .header("Authorization", "Bearer " + newAccessToken)
+                        .build();
+                    return chain.proceed(newRequest);
+                }
+            }
+
+            return response;
+        }
+    })
+    .build(); 
+ ################################################## 
+43 request end
+
+44 request start 
+2022-12-18 22:09:06 
+User nikita_mityushov: 
+ ################################################## 
+Write code of uploading file with retrofit2 in kotlin
+ ################################################## 
+
+bot:
+ ################################################## 
+ 
+
+//Creating an instance of the interface
+val apiInterface = Retrofit.Builder()
+    .baseUrl("http://example.com/")
+    .addConverterFactory(GsonConverterFactory.create())
+    .build()
+    .create(ApiInterface::class.java)
+
+//Creating a file
+val file = File("path/to/file")
+
+//Creating a request body with file and its type
+val requestFile = RequestBody.create(MediaType.parse("multipart/form-data"), file)
+
+//Creating MultipartBody.Part using file request-body and its name
+val body = MultipartBody.Part.createFormData("file", file.getName(), requestFile)
+
+//Executing the request
+val call = apiInterface.uploadFile(body)
+
+call.enqueue(object : Callback<ResponseBody> {
+    override fun onResponse(call: Call<ResponseBody>, response: Response<ResponseBody>) {
+        //Success
+    }
+
+    override fun onFailure(call: Call<ResponseBody>, t: Throwable) {
+        //Failure
+    }
+}) 
+ ################################################## 
+44 request end
+
+45 request start 
+2022-12-19 03:39:49 
+User true_mr_doc: 
+ ################################################## 
+Ололо
+ ################################################## 
+
+bot:
+ ################################################## 
+ шкин Андрей Валерьевич
+Возраст: 25 лет
+Должность: инженер
+Опыт работы: 4 года
+Образование: высшее
+Навыки: проектирование, программирование, анализ данных, обработка изображений. 
+ ################################################## 
+45 request end
+
+46 request start 
+2022-12-19 04:19:41 
+User true_mr_doc: 
+ ################################################## 
+Ололо
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 04:19:47 
+User true_mr_doc: 
+ ################################################## 
+Ййй
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 04:19:57 
+User true_mr_doc: 
+ ################################################## 
+113
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 06:04:20 
+User None: 
+ ################################################## 
+доброе утро
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 06:05:15 
+User None: 
+ ################################################## 
+я просто поздоровался, это был не вопрос.
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 06:05:36 
+User None: 
+ ################################################## 
+сколько будет 2 + 2?
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 10:19:00 
+User nikita_mityushov: 
+ ################################################## 
+Write 20 questions about android Room library and its annotations
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 10:21:12 
+User nikita_mityushov: 
+ ################################################## 
+Write 20 questions with answers about android Room library and its annotations
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 11:52:19 
+User YSss1998: 
+ ################################################## 
+как дела?
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 11:52:31 
+User YSss1998: 
+ ################################################## 
+как сам?
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 11:52:44 
+User YSss1998: 
+ ################################################## 
+почему два ответа?
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 11:53:02 
+User YSss1998: 
+ ################################################## 
+переформулировал
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 11:53:17 
+User YSss1998: 
+ ################################################## 
+How are you&
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 11:53:35 
+User YSss1998: 
+ ################################################## 
+What the hell going on&
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 11:53:56 
+User YSss1998: 
+ ################################################## 
+Yury
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 11:54:28 
+User YSss1998: 
+ ################################################## 
+Masha
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 11:54:35 
+User YSss1998: 
+ ################################################## 
+Maria
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 11:54:49 
+User YSss1998: 
+ ################################################## 
+Zlata
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 13:09:36 
+User nikita_mityushov: 
+ ################################################## 
+Привет всем! Подскажите с retrofit. с бэка приходит таймер его нужно менять. как правильно делать если dagger, и этот таймер нужно менять только на какой то конкретный метод апи т.е. на авторизацию, чтобы был 30 секунд постоянно, а на валидацию значение приходит с бэка может быть 100 секунд. делать доп модуль ретрофита и его прописывать в фабрике для viewmodel валидации где будут динамические тайм ауты
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 13:27:13 
+User nikita_mityushov: 
+ ################################################## 
+in which rxjava operator we can start showing loading progress bar
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 19:41:30 
+User true_mr_doc: 
+ ################################################## 
+Расскажи мне о Плутархе
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 22:14:41 
+User liss_helings: 
+ ################################################## 
+напиши на паскале решение "Укажите все основания систем счисления,  в которых запись числа 17  оканчивается на 2"
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 22:23:18 
+User true_mr_doc: 
+ ################################################## 
+К записи натурального числа в восьмеричной системе счисления спра ва приписали два нуля. Во сколько раз увеличилось число? Ответ запи шите в десятичной системе счисления.
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 22:48:21 
+User true_mr_doc: 
+ ################################################## 
+На каких языках ты умеешь писать
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 22:48:46 
+User true_mr_doc: 
+ ################################################## 
+Ты умеешь писать на Pascal?
+ ################################################## 
+
+
+
+46 request start 
+2022-12-19 22:49:13 
+User true_mr_doc: 
+ ################################################## 
+Напиши калькулятор на Pascal  с подробным описанием
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 09:26:11 
+User nikita_mityushov: 
+ ################################################## 
+Write 30 questions with answers about android internals
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 09:30:30 
+User nikita_mityushov: 
+ ################################################## 
+What kind of design patterns we can encounter in the android intent class
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 09:35:59 
+User nikita_mityushov: 
+ ################################################## 
+How you can help me with interview preparation?
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 09:36:24 
+User nikita_mityushov: 
+ ################################################## 
+How you can help me with software developer interview preparation?
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 09:38:06 
+User nikita_mityushov: 
+ ################################################## 
+Generate some technical requirements on recipes android application development
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 09:45:42 
+User nikita_mityushov: 
+ ################################################## 
+Generate git commit message for branch some_branch about adding technical requirements
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 09:46:33 
+User nikita_mityushov: 
+ ################################################## 
+Generate design of weather application
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 09:49:05 
+User nikita_mityushov: 
+ ################################################## 
+Generate design of quiz mobile application
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 09:51:35 
+User nikita_mityushov: 
+ ################################################## 
+Технологии выемки полезных ископаемых в пластовых месторождениях калийных солей
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 10:08:26 
+User nikita_mityushov: 
+ ################################################## 
+Проходка горных стволов технология
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 10:09:21 
+User nikita_mityushov: 
+ ################################################## 
+Техническое задания на разработку горного ствола
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 10:11:17 
+User nikita_mityushov: 
+ ################################################## 
+Техническое задания на выработки горной вертикальной(далее ствола) глубиной залегания ПИ 420м с применением специальных методов проходки
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 10:11:59 
+User nikita_mityushov: 
+ ################################################## 
+Напиши техническое задание на проходку выработки горной вертикальной(далее ствола) глубиной залегания полезного ископаемого 420м с применением специальных методов проходки
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 10:12:19 
+User nikita_mityushov: 
+ ################################################## 
+Напиши техническое задание на проходку выработки горной вертикальной(далее ствола) глубиной залегания полезного ископаемого 420м
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 10:13:11 
+User nikita_mityushov: 
+ ################################################## 
+Напиши техническое задание на проходку выработки горной вертикальной вскрытия месторождения полезных ископаемых глубиной залегания полезного ископаемого 420м
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 10:22:31 
+User nikita_mityushov: 
+ ################################################## 
+Write some mining engineering software development startup ideas
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 10:26:07 
+User nikita_mityushov: 
+ ################################################## 
+Write technical requirements for a software platform that helps mining engineer to quickly and accurately measure and monitor extraction operations
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 10:28:07 
+User nikita_mityushov: 
+ ################################################## 
+Generate design for a software platform that helps mining engineer to quickly and accurately measure and monitor extraction operations
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 10:31:38 
+User nikita_mityushov: 
+ ################################################## 
+Repeat 1. Dashboard and generate android XML file with this
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 10:32:38 
+User nikita_mityushov: 
+ ################################################## 
+Generate android application Dashboard screen on XML file
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 10:41:23 
+User nikita_mityushov: 
+ ################################################## 
+Write me plan for technical interview preparation on android platform internals
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 10:42:10 
+User nikita_mityushov: 
+ ################################################## 
+Explain me how android binder IPC works
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 12:03:23 
+User liss_helings: 
+ ################################################## 
+Сколько у меня костей?
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 13:06:47 
+User liss_helings: 
+ ################################################## 
+Бу
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 13:07:22 
+User liss_helings: 
+ ################################################## 
+Напиши программу по шахматам в Паскаль
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 13:07:59 
+User baeyervon: 
+ ################################################## 
+Напиши программу по шахматам на Python
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 13:08:34 
+User liss_helings: 
+ ################################################## 
+Напиши программу по шахматам на Пайтон
+ ################################################## 
+
+
+
+46 request start 
+2022-12-20 13:27:16 
+User nikita_mityushov: 
+ ################################################## 
+Write Mobile bank multiplatform application technical requirements
+ ################################################## 
+
+
+
+46 request start 
+2022-12-22 23:36:21 
+User true_mr_doc: 
+ ################################################## 
+jjj
+ ################################################## 
+
+
+
+
+46 request start 
+2022-12-22 23:36:22 
+User true_mr_doc: 
+ ################################################## 
+''
+ ################################################## 
+
+
+
+46 request start 
+2022-12-22 23:36:22 
+User true_mr_doc: 
+ ################################################## 
+;'lk
+ ################################################## 
+
+
+
+46 request start 
+2022-12-22 23:36:22 
+User true_mr_doc: 
+ ################################################## 
+;kljk
+ ################################################## 
+
+
+
+46 request start 
+2022-12-22 23:36:22 
+User YSss1998: 
+ ################################################## 
+2+3
+ ################################################## 
+
+
+
+46 request start 
+2022-12-22 23:37:49 
+User true_mr_doc: 
+ ################################################## 
+123
+ ################################################## 
+
+bot:
+ ################################################## 
+ 4567890
+
+The number is 1234567890. 
+ ################################################## 
+46 request end
