@@ -1,5 +1,5 @@
 TOKEN = "5639340683:AAFT6k0E1HbvtKPWX31fklQ5pR91DArce90"
-api_key = "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"
+api_key = "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"
 start_msg = "Hello! I am a bot that can generate responses to your questions and requests. Just send me a message and I will try my best to help you."
 date_time_format = "%Y-%m-%d %H:%M:%S"
 separator = "##################################################"
